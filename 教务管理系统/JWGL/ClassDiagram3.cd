@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JWGL.BLL.AdminBLL" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAgAAAABAAAAAAAACAEAQIgEAQAAAA=</HashCode>
+      <FileName>BLL\AdminBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.BLL.BaseBLL" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAABAAQAAAAEAAAAAEAAAAAACAQI=</HashCode>
+      <FileName>BLL\BaseBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.BLL.CourseBLL" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACCAAAAAAEAAAAAAAAAAAAAAAAAAAAICAAAAA=</HashCode>
+      <FileName>BLL\CourseBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.BLL.LoginBLL" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BLL\LoginBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.BLL.StudentBLL" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\StudentBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.BLL.TeacherBLL" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>BLL\TeacherBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.BLL.TermCourseBLL" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAAAAAAAgAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>BLL\TermCourseBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.AdminDAL" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\AdminDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.BaseDAL" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAAAAAAAIAABAIAAAAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>DAL\BaseDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.CourseDAL" Collapsed="true">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEgAIACAAAAA=</HashCode>
+      <FileName>DAL\CourseDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.DataFileAccess" Collapsed="true">
+    <Position X="18" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAGEABQAAAAAACAIAACAABgQAAAAAAAQAAAAAAAAAIA=</HashCode>
+      <FileName>DAL\DataFileAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.StudentDAL" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\StudentDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.TeacherDAL" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\TeacherDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.DAL.TermCourseDAL" Collapsed="true">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAgAAkAAABAAEAAAAAAAAAAAgAAAAAAABA=</HashCode>
+      <FileName>DAL\TermCourseDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Model.Admin" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Model\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Model.Course" Collapsed="true">
+    <Position X="18" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAIAAEAAQAAAQAAAAAAgA=</HashCode>
+      <FileName>Model\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Model.Person" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAEAAACAAAAAgAAAgA=</HashCode>
+      <FileName>Model\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Model.Student" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Model\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Model.Teacher" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Model\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Model.TermCourse" Collapsed="true">
+    <Position X="16.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAABAgAAAAAAAAAAAAADgE=</HashCode>
+      <FileName>Model\TermCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.Program" Collapsed="true">
+    <Position X="14.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.UI.AdminUI" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAgAACAAAAAAAgAAAoRAQECAAFQBAIASKAIAUCAgA=</HashCode>
+      <FileName>UI\AdminUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.UI.StudentUI" Collapsed="true">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>UI\StudentUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JWGL.UI.TeacherUI" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>UI\TeacherUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

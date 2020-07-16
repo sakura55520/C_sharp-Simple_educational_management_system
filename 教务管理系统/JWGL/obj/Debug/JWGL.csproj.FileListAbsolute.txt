@@ -1,0 +1,44 @@
+C:\Users\Administrator\Desktop\管理\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\潘萌萌\Desktop\管理\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\潘萌萌\Desktop\管理\JWGL\bin\Debug\JWGL.exe
+C:\Users\潘萌萌\Desktop\管理\JWGL\bin\Debug\JWGL.pdb
+C:\Users\潘萌萌\Desktop\管理\JWGL\obj\Debug\JWGL.exe
+C:\Users\潘萌萌\Desktop\管理\JWGL\obj\Debug\JWGL.pdb
+C:\Users\Administrator\Desktop\管理\JWGL\obj\Debug\JWGL.exe
+C:\Users\Administrator\Desktop\管理\JWGL\obj\Debug\JWGL.pdb
+C:\Users\Administrator\Desktop\管理\JWGL\bin\Debug\JWGL.exe
+C:\Users\Administrator\Desktop\管理\JWGL\bin\Debug\JWGL.pdb
+C:\Users\Administrator\Desktop\管理\JWGL\obj\Debug\JWGL.csprojResolveAssemblyReference.cache
+C:\Users\潘萌萌\Desktop\管理\JWGL\obj\Debug\JWGL.csprojResolveAssemblyReference.cache
+C:\Users\潘萌萌\Desktop\管理1234\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\潘萌萌\Desktop\管理1234\JWGL\obj\Debug\JWGL.exe
+C:\Users\潘萌萌\Desktop\管理1234\JWGL\obj\Debug\JWGL.pdb
+C:\Users\潘萌萌\Desktop\管理1234\JWGL\bin\Debug\JWGL.exe
+C:\Users\潘萌萌\Desktop\管理1234\JWGL\bin\Debug\JWGL.pdb
+C:\Users\潘萌萌\Desktop\管理1234\JWGL\obj\Debug\JWGL.csprojResolveAssemblyReference.cache
+C:\Users\潘萌萌\Desktop\教务管理系统\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\潘萌萌\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.exe
+C:\Users\潘萌萌\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.pdb
+C:\Users\潘萌萌\Desktop\教务管理系统\JWGL\bin\Debug\JWGL.exe
+C:\Users\潘萌萌\Desktop\教务管理系统\JWGL\bin\Debug\JWGL.pdb
+C:\Users\潘萌萌\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\1093632064\FileRecv\MobileFile\17145118龙泽球\教务管理系统\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\Administrator\Documents\Tencent Files\1093632064\FileRecv\MobileFile\17145118龙泽球\教务管理系统\JWGL\obj\Debug\JWGL.exe
+C:\Users\Administrator\Documents\Tencent Files\1093632064\FileRecv\MobileFile\17145118龙泽球\教务管理系统\JWGL\obj\Debug\JWGL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1093632064\FileRecv\MobileFile\17145118龙泽球\教务管理系统\JWGL\bin\Debug\JWGL.exe
+C:\Users\Administrator\Documents\Tencent Files\1093632064\FileRecv\MobileFile\17145118龙泽球\教务管理系统\JWGL\bin\Debug\JWGL.pdb
+C:\Users\Administrator\Documents\Tencent Files\1093632064\FileRecv\MobileFile\17145118龙泽球\教务管理系统\JWGL\obj\Debug\JWGL.csprojResolveAssemblyReference.cache
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\bin\Debug\JWGL.exe
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\bin\Debug\JWGL.pdb
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.csprojAssemblyReference.cache
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.csproj.CoreCompileInputs.cache
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.exe
+C:\Users\Sakura\Desktop\教务管理系统\JWGL\obj\Debug\JWGL.pdb
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\bin\Debug\JWGL.exe.config
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\bin\Debug\JWGL.exe
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\bin\Debug\JWGL.pdb
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\obj\Debug\JWGL.csprojAssemblyReference.cache
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\obj\Debug\JWGL.csproj.CoreCompileInputs.cache
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\obj\Debug\JWGL.exe
+C:\Users\Sakura\Desktop\下载\教务管理系统\JWGL\obj\Debug\JWGL.pdb
